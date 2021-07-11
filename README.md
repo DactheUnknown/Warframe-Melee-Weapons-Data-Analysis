@@ -1,4 +1,4 @@
-# Warframe-Melee-Weapons-Data-Anaylsis
+# Warframe-Melee-Weapons-Data-Analysis
 Data Analysis Project Background contains background information for the graphs.
 Data Analysis Graphs contains all graphs created.
 
